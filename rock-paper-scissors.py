@@ -42,3 +42,4 @@ while True:
     print(f"Computer's choice: {computer_choice}")
     print(f"\n{winner}\n")
 
+    # Ask if the player wants to play again
