@@ -17,3 +17,4 @@ def determine_winner(player_choice, computer_choice):
 def get_player_choice():
     while True:
         choice = input("Enter your choice (rock/paper/scissors): ").lower()
+        if choice in ['rock', 'paper', 'scissors']:
