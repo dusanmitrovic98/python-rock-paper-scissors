@@ -33,3 +33,4 @@ while True:
     # Get player and computer choices
     player_choice = get_player_choice()
     computer_choice = get_computer_choice()
+
