@@ -30,3 +30,4 @@ def get_computer_choice():
 
 # Main game loop
 while True:
+    # Get player and computer choices
