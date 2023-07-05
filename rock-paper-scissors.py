@@ -34,3 +34,4 @@ while True:
     player_choice = get_player_choice()
     computer_choice = get_computer_choice()
 
+    # Determine the winner
