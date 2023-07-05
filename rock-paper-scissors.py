@@ -23,3 +23,4 @@ def get_player_choice():
             print("Invalid choice! Please try again.")
 
 # Function to get computer's choice
+def get_computer_choice():
