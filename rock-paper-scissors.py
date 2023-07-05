@@ -25,3 +25,4 @@ def get_player_choice():
 # Function to get computer's choice
 def get_computer_choice():
     choices = ['rock', 'paper', 'scissors']
+    return random.choice(choices)
