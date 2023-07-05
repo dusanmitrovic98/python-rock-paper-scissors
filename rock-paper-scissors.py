@@ -45,3 +45,4 @@ while True:
     # Ask if the player wants to play again
     play_again = input("Do you want to play again? (yes/no): ").lower()
     if play_again != 'yes':
+        break
