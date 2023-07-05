@@ -39,3 +39,4 @@ while True:
 
     # Display the choices and result
     print(f"\nYour choice: {player_choice}")
+    print(f"Computer's choice: {computer_choice}")
