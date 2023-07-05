@@ -19,3 +19,4 @@ def get_player_choice():
         choice = input("Enter your choice (rock/paper/scissors): ").lower()
         if choice in ['rock', 'paper', 'scissors']:
             return choice
+        else:
