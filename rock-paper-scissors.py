@@ -11,3 +11,4 @@ def determine_winner(player_choice, computer_choice):
     ):
         return "You win!"
     else:
+        return "Computer wins!"
