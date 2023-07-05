@@ -35,3 +35,4 @@ while True:
     computer_choice = get_computer_choice()
 
     # Determine the winner
+    winner = determine_winner(player_choice, computer_choice)
