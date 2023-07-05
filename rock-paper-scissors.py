@@ -20,3 +20,4 @@ def get_player_choice():
         if choice in ['rock', 'paper', 'scissors']:
             return choice
         else:
+            print("Invalid choice! Please try again.")
