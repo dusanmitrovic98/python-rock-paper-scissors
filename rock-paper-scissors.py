@@ -8,3 +8,4 @@ def determine_winner(player_choice, computer_choice):
         (player_choice == 'rock' and computer_choice == 'scissors') or
         (player_choice == 'paper' and computer_choice == 'rock') or
         (player_choice == 'scissors' and computer_choice == 'paper')
+    ):
