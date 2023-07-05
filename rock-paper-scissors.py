@@ -38,3 +38,4 @@ while True:
     winner = determine_winner(player_choice, computer_choice)
 
     # Display the choices and result
+    print(f"\nYour choice: {player_choice}")
