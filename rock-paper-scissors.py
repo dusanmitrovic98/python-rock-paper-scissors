@@ -15,3 +15,4 @@ def determine_winner(player_choice, computer_choice):
 
 # Function to get player's choice
 def get_player_choice():
+    while True:
